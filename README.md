@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : email: kamoelomothupi82@gmail.com
+- 📫 How to reach me : email: kamogelomothupi82@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Was never interested in computers let alone coding 
 
